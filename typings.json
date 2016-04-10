@@ -1,0 +1,5 @@
+{
+  "name": "immutable",
+  "main": "immutable.d.ts",
+  "version": "3.7.6"
+}
